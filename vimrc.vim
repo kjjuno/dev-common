@@ -36,6 +36,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'editorconfig/editorconfig-vim'
 Plugin 'kien/ctrlp.vim'          "Best used with ctags, install at terminal
+Plugin 'scrooloose/nerdtree'
 
 call vundle#end()                " required
 filetype plugin indent on        " required
